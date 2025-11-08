@@ -37,9 +37,18 @@ Using df.describe(), key insights were found:
 Average age ≈ 54 years
 Average resting blood pressure ≈ 132 mmHg
 Average cholesterol ≈ 210 mg/dL
+
 Average max heart rate ≈ 140 bpm
 
 Other descriptive statistics included:
 Comparing patients with vs without heart disease.
 
 Top correlations with heart disease.
+
+
+
+
+
+
+
+
